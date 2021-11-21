@@ -1,0 +1,82 @@
+body{
+    background-color: aqua;
+}
+.form{
+    border:black 3px solid;
+    color:;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    
+}
+.form input{
+    width: 250px;
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.form textarea{
+    text-align: center;
+    width: 250px;
+    background-color: burlywood;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.btn{
+    color: yellow;
+    border:blueviolet 1px solid;
+    width: 200px;
+    padding: 10px;
+    background-color: black;
+}
+.btn:hover{
+    background-color: blue;
+    border: black 3px solid;
+    color: red;
+}
+.gallery{
+    width: 70%;
+    margin: auto;
+    background-color: gainsboro;
+    border: white 2px solid
+}
+.gallery h2{
+   text-align: center;
+      
+    }
+
+.gallery ul li{
+    text-align: ;
+    list-style:
+}
+.gallery p{
+    text-align: center;
+    list-style: none;
+}
+.ulnvs ul{
+    text-align: center;
+    list-style: none;
+    color: wheat;
+}
+.ulnvs li{
+    display: inline;
+}
+li a{
+    background-color: black;
+    width: 20%;
+    display: inline-block;
+    padding-bottom: 20px;
+    text-decoration: none;
+    clear:blue;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.ulnvs li a:hover{
+    border: olive 2px solid;
+    background-color: peachpuff;
+}
+.h1{
+    text-align: center;
+}
